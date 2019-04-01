@@ -1,0 +1,14 @@
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.deps.json
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.runtimeconfig.json
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.runtimeconfig.dev.json
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.dll
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.csprojAssemblyReference.cache
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.AssemblyInfoInputs.cache
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.AssemblyInfo.cs
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.pdb
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.dll
+C:\Users\harishchandra.yadav\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.pdb
